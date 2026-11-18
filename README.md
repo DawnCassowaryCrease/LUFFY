@@ -56,15 +56,6 @@ LUFFY/
 
 ### 📝 Complete TODO List
 
-- [ ] **.github/scripts/update_readme_todos.py:2** - List in README.md from main..dev Python changes."""
-- [ ] **.github/scripts/update_readme_todos.py:18** - List\s*$")
-- [ ] **.github/scripts/update_readme_todos.py:53** - ")
-- [ ] **.github/scripts/update_readme_todos.py:57** - " prefix. Do not strip the colon that
-- [ ] **.github/scripts/update_readme_todos.py:58** - (sgm): message.
-- [ ] **.github/scripts/update_readme_todos.py:62** - (s) from {rel_path}")
-- [ ] **.github/scripts/update_readme_todos.py:82** - List' heading")
-- [ ] **.github/scripts/update_readme_todos.py:111** - section:\n{details}")
-- [ ] **.github/scripts/update_readme_todos.py:161** - entries: {len(final_entries)}")
 - [ ] **luffy/deepscaler/utils.py:45** - Add logging for API calls and errors
 - [ ] **luffy/deepscaler/utils.py:46** - Support batch processing for multiple prompts
 - [ ] **luffy/deepscaler/utils.py:47** - Add timeout configuration for API calls
